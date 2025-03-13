@@ -399,3 +399,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 api/appsettings.json
+api/Properties/launchSettings.json
